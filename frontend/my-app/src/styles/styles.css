@@ -1,0 +1,66 @@
+.HomeNavbar {
+ margin-left: auto;
+        
+}
+.HomeNavbar .Login{
+margin: 1.5rem;
+}
+.homeAppBar{
+    background-color: rgb(122, 104, 243);
+}
+/* hero section */
+.heroDiv{
+    margin: 30px;
+    padding: 40px;
+    background-color: antiquewhite;
+    word-spacing: 3px;
+    height: 12rem;
+    width: 30rem;
+     /* display: flex;
+   align-items: center;
+   justify-content: space-between; */
+}
+.heroDiv3 button{
+    margin: 13px;
+    padding: 10px;
+    
+}
+.heroDiv2 h5{
+    margin: 1.5rem;
+}
+/* footer */
+.footer{
+    /* display: inline-block;
+    justify-content: space-between;
+   
+   
+  
+   */
+    background-color:black;
+     padding: 1.5rem;
+       position: sticky;
+}
+.footer a{
+    font-size: large;
+    font-weight: 500;
+    color: white;
+}
+.footer a :hover{
+    opacity: 0.7;
+    color: white;
+}
+/* login page */
+/* .loginPage{
+    background-color: aqua;
+    
+}
+.loginPage .userbox{
+    margin: 20px;
+}
+.loginPage2div{
+    background-color: rgb(250, 165, 55);
+} */
+ /* .loinpagebtn{
+    margin:10rem,
+    /* padding:15px, */
+    
